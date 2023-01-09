@@ -28,7 +28,7 @@ var questionOne = {
 
 var questionTwo ={
   question:"Where do i live: ",
-  answer:"bhilai"
+  answer:"chattisgarh"
 }
 var questionThree ={
   question:"Who is my favourite Superhero: ",
